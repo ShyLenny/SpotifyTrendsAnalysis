@@ -22,3 +22,7 @@ Analyze Spotify song data to uncover trends in music popularity, genres, artists
 - notebooks/
 - src/
 - images/
+
+## Author
+
+ShyLenny
